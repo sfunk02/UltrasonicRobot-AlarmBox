@@ -8,7 +8,7 @@
 // alarm box that turns on when passed in front of
 // Asher and Sam
 // This code allows the alarm to make a beep when moved in front of, and turned off when 3 switches are correctly oriented, and a fingerprint scanner is held.
-//Turn on fingerprint scanner
+
 
 void setup() {
     // powerSwitch = 9
