@@ -4,6 +4,16 @@
 [Planning Document](https://docs.google.com/document/d/11-2wF_9yJS5I0nBnbIoVSM57Gn8QsEdFmUylcHFtpr0/edit)
 
 [Onshape Document](https://cvilleschools.onshape.com/documents/62b61c312d311374f7377d1f/w/2b701c59b07ab7046ca70730/e/031eb83c64f35727659cf31c)
+
+## Schedule
+
+Week of 2-22: finish CAD
+
+Week of 3-1: send in plans for laser cutting and 3d printing, finish writing the code
+
+Week of 3-8: assemble/wire box, finalize coding, document project
+
+
 ## Pseudo-code
 
 ```C++
