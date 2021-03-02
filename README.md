@@ -55,3 +55,7 @@ void loop() {
 
 
 ```
+## 2/22
+* We accomplished doing a couple sides of the Onshape CAD
+* We will probably need an extra week, seeing as we didn't finish the entire CAD this week, even though we were planning to.
+* We were very busy the last week with other homework, but we are going to spend more time on engineering this week.
