@@ -13,6 +13,14 @@ Week of 3-1: send in plans for laser cutting and 3d printing, finish writing the
 
 Week of 3-8: assemble/wire box, finalize coding, document project
 
+#### Schedule Readjusted (3-11):
+
+Week of 3-8: convert pseudo code to real code, make progess on CAD
+
+Week of 3-15: finalize cad and code
+
+Week of 3-22: cut, print, and assemble, test code
+
 ## Journal
 
 ### 2/22
