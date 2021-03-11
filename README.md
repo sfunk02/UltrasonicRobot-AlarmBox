@@ -13,6 +13,16 @@ Week of 3-1: send in plans for laser cutting and 3d printing, finish writing the
 
 Week of 3-8: assemble/wire box, finalize coding, document project
 
+## Journal
+
+### 2/22
+* We accomplished doing a couple sides of the Onshape CAD
+* We will probably need an extra week, seeing as we didn't finish the entire CAD this week, even though we were planning to.
+* We were very busy the last week with other homework, but we are going to spend more time on engineering this week.
+
+### 3/11
+* We are currently behind schedule on CAD, but will try to catch up over the weekend. 
+* This week, we are trying to turn the pseudo code into working code. 
 
 ## Pseudo-code
 
@@ -55,11 +65,3 @@ void loop() {
 
 
 ```
-## 2/22
-* We accomplished doing a couple sides of the Onshape CAD
-* We will probably need an extra week, seeing as we didn't finish the entire CAD this week, even though we were planning to.
-* We were very busy the last week with other homework, but we are going to spend more time on engineering this week.
-
-## 3/11
-* We are currently behind schedule on CAD, but will try to catch up over the weekend. 
-* This week, we are trying to turn the pseudo code into working code. 
