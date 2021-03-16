@@ -15,7 +15,7 @@ Week of 3-8: assemble/wire box, finalize coding, document project
 
 #### Schedule Readjusted (3-11):
 
-Week of 3-8: convert pseudo code to real code, make progess on CAD
+Week of 3-8: convert pseudo code to real code, make progress on CAD
 
 Week of 3-15: finalize cad and code
 
