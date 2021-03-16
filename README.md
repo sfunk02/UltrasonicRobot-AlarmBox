@@ -32,6 +32,9 @@ Week of 3-22: cut, print, and assemble, test code
 * We are currently behind schedule on CAD, but will try to catch up over the weekend. 
 * This week, we are trying to turn the pseudo code into working code. 
 
+### 3/16
+* replaced fingerprint sensor with a button to streamline the design
+
 ## Pseudo-code
 
 ```C++
