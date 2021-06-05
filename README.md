@@ -76,3 +76,78 @@ void loop() {
 
 
 ```
+
+## Code
+
+```C++
+/*
+Sam Funk & Asher Friedman
+Alarm Box - makes a piezo buzzer beep when a HCSR-04 sensor detects a change in distance. It can only be turned off if the correct 2 out of 3 switches are turned on
+and a button is pressed. 
+*/
+
+const int switchPin = 3  //These are the switches that must be correctly flipped to turn off the buzzer.
+const int buzzer = 8    //Piezo buzzer pin
+const int ultrasonicPin = 10  //HCSR-04 pin
+
+#include <NewPing.h>  //NewPing library (for HCSR-04)
+
+#define TRIGGER_PIN 12
+#define ECHO_PIN 11
+#define MAX_DISTANCE 200
+
+NewPing myHC_SR04(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
+
+int ledState = LOW;     // the current state of LED
+int lastButtonState;    // the previous state of button
+int currentButtonState; // the current state of button
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(switchPin, INPUT);
+  pinMode(buzzer, OUTPUT);
+  pinMode(ultrasonicPin, OUTPUT);
+  currentButtonState = digitalRead(switch_Pin);
+}
+
+void loop() {
+  int distance = myHC_SR04.ping_cm;
+  Serial.println(myHC_SR04.ping_cm());
+  delay(5);
+  digitalWrite(ultrasonicPin, HIGH);
+  delay(myHC_SR04.ping_cm()*10);
+  digitalWrite(ultrasonicPin, LOW);
+  delay(myHC_SR04.ping_cm()*10);
+
+  lastButtonState    = currentButtonState;      // save the last state
+  currentButtonState = digitalRead(BUTTON_PIN); // read new state
+
+  
+  
+  
+  if (digitalRead(switchPin) = HIGH) {
+    noTone(buzzer); 
+  
+    if (distance < 90) {
+    tone(buzzer, 1000);
+    delay(500);
+    noTone(buzzer);
+    delay(500);
+      if(lastButtonState == HIGH && currentButtonState == LOW) {
+    Serial.println("The button is pressed");
+
+    
+
+    // control LED arccoding to the toggled state
+    digitalWrite(buzzer, LOW); 
+      }
+  } 
+  }
+  
+  else {
+    noTone(buzzer);
+  }
+  
+  }
+  
+  ```
