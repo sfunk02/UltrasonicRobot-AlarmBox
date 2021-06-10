@@ -9,7 +9,7 @@
 <img src = "https://github.com/sfunk02/UltrasonicRobot-AlarmBox/blob/main/Alarm%20Box%20main%20view.png" width = "300"> 
 
 ---
-The image below shows a mistake being fixed - the holes to plug in the arduino were not lined up, making it impossible to connect to the computer (more details at the bottom of this document).
+The image below shows a mistake being fixed - the holes to plug in the arduino were not lined up making it impossible to connect to the computer(more details at the bottom of this document).
 <img src = "https://github.com/sfunk02/UltrasonicRobot-AlarmBox/blob/main/Alarm%20box%20Arduino%20zoom%20view.png" width = "300"> 
 
 
