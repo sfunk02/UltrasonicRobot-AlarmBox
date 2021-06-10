@@ -2,6 +2,7 @@
 
 ## Evidence
 [Planning Document](https://docs.google.com/document/d/11-2wF_9yJS5I0nBnbIoVSM57Gn8QsEdFmUylcHFtpr0/edit)
+(With material list)
 
 [Onshape Document](https://cvilleschools.onshape.com/documents/62b61c312d311374f7377d1f/w/2b701c59b07ab7046ca70730/e/031eb83c64f35727659cf31c)
 
@@ -151,3 +152,13 @@ void loop() {
   }
   
   ```
+## Problems we faced
+
+* A lot of time could not be used properly, because we couldn't meet up and finish working together.
+* Covid restricted time use as well, making us unable to have enough in person hours to work on the box.
+* A couple months of time went to waste, because of the problems above.
+
+* After printing the sides of the box for the first time, we realized the bottom of the arduino had metal pegs sticking out, which were not in the Onshape document. This caused the plugs that connect to the computer to not line up with the holes in the wall. 
+* After laser cutting holes to mount the 9v battery, we realized the screw size was smaller than the other ones, and weren't able to get them due to not having in person school for the last week.
+* After turning in the kit for engineering, we returned our wires that connect usb to the arduino, so we were not able to upload the code.
+### All of these problems above made us unable to finish the project, which is very unfortunate, but next year, with the pandemic coming to a close, we will be able to use our time more wisely.
