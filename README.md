@@ -8,19 +8,7 @@
 
 
 
-## Journal
 
-### 2/22
-* We accomplished doing a couple sides of the Onshape CAD
-* We will probably need an extra week, seeing as we didn't finish the entire CAD this week, even though we were planning to.
-* We were very busy the last week with other homework, but we are going to spend more time on engineering this week.
-
-### 3/11
-* We are currently behind schedule on CAD, but will try to catch up over the weekend. 
-* This week, we are trying to turn the pseudo code into working code. 
-
-### 3/16
-* replaced fingerprint sensor with a button to streamline the design
 
 ## Pseudo-code
 
@@ -153,6 +141,20 @@ Week of 3-8: convert pseudo code to real code, make progress on CAD
 Week of 3-15: finalize cad and code
 
 Week of 3-22: cut, print, and assemble, test code
+
+## Journal
+
+### 2/22
+* We accomplished doing a couple sides of the Onshape CAD
+* We will probably need an extra week, seeing as we didn't finish the entire CAD this week, even though we were planning to.
+* We were very busy the last week with other homework, but we are going to spend more time on engineering this week.
+
+### 3/11
+* We are currently behind schedule on CAD, but will try to catch up over the weekend. 
+* This week, we are trying to turn the pseudo code into working code. 
+
+### 3/16
+* replaced fingerprint sensor with a button to streamline the design
 
 ### After a few weeks, we stopped working on the schedule, because progress was very slow.
 
