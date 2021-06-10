@@ -6,21 +6,7 @@
 
 [Onshape Document](https://cvilleschools.onshape.com/documents/62b61c312d311374f7377d1f/w/2b701c59b07ab7046ca70730/e/031eb83c64f35727659cf31c)
 
-## Schedule
 
-Week of 2-22: finish CAD
-
-Week of 3-1: send in plans for laser cutting and 3d printing, finish writing the code
-
-Week of 3-8: assemble/wire box, finalize coding, document project
-
-#### Schedule Readjusted (3-11):
-
-Week of 3-8: convert pseudo code to real code, make progress on CAD
-
-Week of 3-15: finalize cad and code
-
-Week of 3-22: cut, print, and assemble, test code
 
 ## Journal
 
@@ -152,6 +138,24 @@ void loop() {
   }
   
   ```
+## Schedule
+
+Week of 2-22: finish CAD
+
+Week of 3-1: send in plans for laser cutting and 3d printing, finish writing the code
+
+Week of 3-8: assemble/wire box, finalize coding, document project
+
+#### Schedule Readjusted (3-11):
+
+Week of 3-8: convert pseudo code to real code, make progress on CAD
+
+Week of 3-15: finalize cad and code
+
+Week of 3-22: cut, print, and assemble, test code
+
+### After a few weeks, we stopped working on the schedule, because progress was very slow.
+
 ## Problems we faced
 
 * A lot of time could not be used properly, because we couldn't meet up and finish working together.
