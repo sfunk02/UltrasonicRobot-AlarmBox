@@ -136,13 +136,14 @@ void loop() {
 ## Final Pictures
 
 <img src = "https://github.com/sfunk02/UltrasonicRobot-AlarmBox/blob/main/Alarmbox_Birdseye_View.JPG" width = "300"> 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img src = "https://github.com/sfunk02/UltrasonicRobot-AlarmBox/blob/main/Alarmbox_Corner_View.JPG" width = "300"> 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img src = "https://github.com/sfunk02/UltrasonicRobot-AlarmBox/blob/main/Alarmbox_Side_View.JPG" width = "300"> 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Schedule
 
 Week of 2-22: finish CAD
